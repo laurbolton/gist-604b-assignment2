@@ -22,6 +22,7 @@ This project documents a series of QGIS-based workflows focused on desktop GIS a
 - View exported maps and outputs in the **outputs** folder
 
 ## Repository Structure
-- /projects – contains QGIS project files (.qgz)
-- /outputs – contains results from analyses
-- README.md – project overview and documentation
+    .
+    ├── outputs/        # Contains QGIS project files (.qgz)
+    ├── projects/       # Contains outputs from analyses 
+    └── README.md       # Project documentation
